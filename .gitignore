@@ -1,0 +1,4 @@
+Tensorflow/models
+Tensorflow/workspace/*
+!Tensorflow/workspace/pre-trained-models
+.ipynb_checkpoints
